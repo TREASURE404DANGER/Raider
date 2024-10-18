@@ -1,5 +1,4 @@
- 
-   <a>
+  <a>
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=+•★⃝ Raider★⃝•; Python-based+Penetration+Tool;BY+TREASUR404DANGER;RELEASED+DATE+18%2F10%2F2024." alt="Typing SVG" /></a>
  </p>
 <p align="center">
@@ -35,14 +34,18 @@ Raider is a Python-based network penetration testing tool designed to facilitate
 - Metasploit
 - Required Python libraries: subprocess, multiprocessing, sys, re, etc.
 
-*Installation*
+### FORK THIS REPO
+
+<a href='https://github.com/TREASURE404DANGER/Raider/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork This Repo-black?style=for-the-badge&logo=git&logoColor=white'/></a>
+
+### *Installation*
 
 
 ```bash
 curl https://raw.githubusercontent.com/TREASURE404DANGER/Raider/main/install.sh|bash
 ```
 
-*Usage*
+### *Usage*
 
 
 ```bash
@@ -56,7 +59,7 @@ If installed with install.sh:
 raider <IP_ADDRESS>
 ````
 
-*Modules*
+### *Modules*
 
 1. *NMAP Scan*
 
@@ -103,12 +106,12 @@ Raider generates a comprehensive report detailing:
 - Potential vulnerabilities
 - Recommended actions
 
-*Disclaimer*
+### *Disclaimer*
 
 Raider is intended for educational and ethical penetration testing purposes only. Ensure proper authorization before using it on any network or system.
 
 
-*Contact*
+#### *Contact*
 
 [Insert contact information]
 
