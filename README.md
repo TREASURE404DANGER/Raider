@@ -106,7 +106,7 @@ Raider generates a comprehensive report detailing:
 - Potential vulnerabilities
 - Recommended actions
 
-### *Disclaimer*
+<h2 align="center"> ⚠️ Disclaimer  </h2>
 
 Raider is intended for educational and ethical penetration testing purposes only. Ensure proper authorization before using it on any network or system.
 
