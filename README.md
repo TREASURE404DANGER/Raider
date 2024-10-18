@@ -1,17 +1,16 @@
- # Raider
+ 
    <a>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=+•★⃝ Raider★⃝•; Python-based+Penetration+Tool;DEVELOPED+BY+TREASUR404DANGER;RELEASED+DATE+18%2F10%2F2024." alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=+•★⃝ Raider★⃝•; Python-based+Penetration+Tool;BY+TREASUR404DANGER;RELEASED+DATE+18%2F10%2F2024." alt="Typing SVG" /></a>
  </p>
 <p align="center">
 <p align="center"><img src="https://profile-counter.glitch.me/{TREASURE404DANGER}/count.svg" alt="TREASURE404DANGER" :: Visitor's Count" /></p>
 <p align="center">
-<a href="https://github.com/TREASURE404DANGER/followers"><img title="Followers" src="https://img.shields.io/github/followers/DeeCeeXxx?color=red&style=flat-square"></a>
+<a href="https://github.com/TREASURE404DANGER/followers"><img title="Followers" src="https://img.shields.io/github/followers/TREASURE404DANGER?color=red&style=flat-square"></a>
 <a href="https://github.com/TREASURE404DANGER/Raider/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/TREASURE404DANGER/Raider?color=blue&style=flat-square"></a>
 <a href="https://github.com/TREASURE404DANGER/Raider/network/members"><img title="Forks" src="https://img.shields.io/github/forks/TREASURE404DANGER/Raider?color=red&style=flat-square"></a>
 <a href="https://github.com/TREASURE404DANGER/Raider/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/TREASURE404DANGER/Raider?label=Watchers&color=blue&style=flat-square"></a>
 <a href="https://github.com/TREASURE404DANGER/Raider/"><img title="Size" src="https://img.shields.io/github/repo-size/TREASURE404DANGER/Raider?style=flat-square&color=green"></a>
- # Raider
-Raider is a Python-based network penetration Here's the rewritten text with added sections, removed unnecessary parts, and improved readability:
+ Raider is a Python-based network penetration Here's the rewritten text with added sections, removed unnecessary parts, and improved readability:
 
 *Raider: Network Penetration Testing Tool*
 
