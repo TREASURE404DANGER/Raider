@@ -110,10 +110,11 @@ Raider generates a comprehensive report detailing:
 
 Raider is intended for educational and ethical penetration testing purposes only. Ensure proper authorization before using it on any network or system.
 
-
-#### *Contact*
-
-[Insert contact information]
+## ```Connect With Me```<img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80"></h1> 
+ <br> 
+<p align="center">
+<a href="https://wa.me/2347049598822"><img src="https://img.shields.io/badge/Contact TREASURE404DANGER-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://whatsapp.com/channel/0029Vajn8TuFcovziHg7rM2B"><img src="https://img.shields.io/badge/Join Official Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
 ## 🙇 Special Thanks
 
