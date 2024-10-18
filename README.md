@@ -27,23 +27,23 @@ Raider is a Python-based network penetration testing tool designed to facilitate
 *Installation*
 
 
-bash
+```bash
 curl (link unavailable) | bash
-
+```
 
 *Usage*
 
 
-bash
+```bash
 python3 /application/path/raider.py <IP_ADDRESS>
-
+```
 
 or
 
 
-bash
+```bash
 Raider <IP_ADDRESS>
-
+````
 
 *Modules*
 
