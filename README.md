@@ -38,11 +38,11 @@ curl https://raw.githubusercontent.com/TREASURE404DANGER/Raider/main/install.sh|
 python3 /application/path/raider.py <IP_ADDRESS>
 ```
 
-or
+If installed with install.sh:
 
 
 ```bash
-Raider <IP_ADDRESS>
+raider <IP_ADDRESS>
 ````
 
 *Modules*
