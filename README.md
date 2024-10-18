@@ -101,4 +101,8 @@ Raider is intended for educational and ethical penetration testing purposes only
 
 [Insert contact information]
 
+## 🙇 Special Thanks
 
+- [Mr. Robot 🤖](https://github.com/Sphinxx404)
+ 
+- [Ghost👻](https://github.com/ghostx313)
