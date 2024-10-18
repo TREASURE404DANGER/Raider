@@ -28,7 +28,7 @@ Raider is a Python-based network penetration testing tool designed to facilitate
 
 
 ```bash
-curl (link unavailable) | bash
+curl https://raw.githubusercontent.com/TREASURE404DANGER/Raider/main/install.sh|bash
 ```
 
 *Usage*
