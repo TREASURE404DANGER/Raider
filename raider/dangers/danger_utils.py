@@ -135,8 +135,7 @@ def get_usernames_esr(username):
 
 # Version check utility
 def check_version():
-    banner = """def banner() -> object:
-            print("""\
+    banner = """
                 ┌────────────────────────────────────────────────────────────────────┐
                 │                                                                    │
                 │            ██████╗  █████╗ ██╗██████╗ ███████╗██████╗              │
@@ -150,7 +149,7 @@ def check_version():
                 │                      AUTHOR : TREASURE404DANGER                           │
                 │                      TEAM: Darknet Cyber Hunters                   │
                 └────────────────────────────────────────────────────────────────────┘
-                \nThank you for installing this tool. Use it responsibly!
+                Thank you for installing this tool. Use it responsibly!
 """
     printc(banner, GREEN)
 
